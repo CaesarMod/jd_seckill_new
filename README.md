@@ -6,7 +6,7 @@
 windows目前已经打包完毕，请下载`jd_maotai_20210102.zip`文件，解压，双击`main.exe`即可运行，但是仍然需要在解压文件中填写config.ini配置信息 `eid`和`fp` 还是需要填写的哦，千万不要忘记哦！！！
 
 
-**京东的 eid 和 fp 获取方式：** 登陆你的京东网页版，随便选个商品下单，然后使用 浏览器的F12，在console下输入 _JdTdudfp 回车，就能得到 eid 和 fp    
+**京东的 eid 和 fp 获取方式：** 登陆你的京东网页版，随便选个商品下单（不用支付，点到结算就行），然后使用 浏览器的F12，在console下输入 _JdTdudfp 回车，就能得到 eid 和 fp    
 ![image](https://user-images.githubusercontent.com/31002981/165692679-43d50aee-26b4-4a98-b1c5-b0eafa50cf12.png)
 
 
